@@ -7,5 +7,5 @@ setup(name='opflearn',
       author='Trager Joswig-Jones',
       author_email='joswitra@uw.edu',
       license='MIT',
-      packages=['opflearn],
+      packages=['opflearn'],
       zip_safe=False)
